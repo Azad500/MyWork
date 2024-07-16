@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyWork.az</title>
+    <link rel="icon" type="image/png" href="./images/logo/myWorkLogo.png" />
+    <link rel="stylesheet" href="./home.css" />
+    <link rel="stylesheet" href="./responsive425.css" />
+    <link rel="stylesheet" href="./responsive768.css" />
+    <link rel="stylesheet" href="./responsive1024.css" />
+    <link rel="stylesheet" href="./responsive1200.css" />
+    <link rel="stylesheet" href="./responsive1440.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <!-- ---------------header----------------- -->
+    <header>
+      <!-- ---------------login----------------- -->
+      <div class="login-container">
+        <ul class="login-element">
+          <li>
+            <i onclick="loginFunction()" class="fa-regular fa-circle-xmark"></i>
+          </li>
+          <li class="login-text">
+            <p class="login-entry-text">Daxil ol</p>
+            <p class="login-registration-text">Qeydiyyatdan keç</p>
+          </li>
+          <li>
+            <form>
+              <ul class="entry-element">
+                <li>
+                  <label for="email">Email</label>
+                  <input type="email" name="email" id="email" required />
+                </li>
+                <li>
+                  <label for="password">Şifrə</label>
+                  <input
+                    type="password"
+                    name="password"
+                    id="password"
+                    required
+                  />
+                </li>
+              </ul>
+              <ul class="registration-element">
+                <li>
+                  <label for="name">Ad</label>
+                  <input type="text" name="name" id="name" required />
+                </li>
+                <li>
+                  <label for="surname">Soyad</label>
+                  <input type="text" name="surname" id="surname" required />
+                </li>
+                <li>
+                  <label for="email1">Email</label>
+                  <input type="email" name="email1" id="email1" required />
+                </li>
+                <li>
+                  <label for="telefon">Telefon</label>
+                  <input type="tel" name="telefon" id="telefon" required />
+                </li>
+                <li>
+                  <label for="Sifre">Şifrə</label>
+                  <input type="password" name="Sifre" id="Sifre" required />
+                </li>
+              </ul>
+              <div class="login-button">
+                <input
+                  class="entry-button"
+                  type="submit"
+                  name="submitButton"
+                  value="Daxil ol"
+                />
+              </div>
+            </form>
+          </li>
+        </ul>
+      </div>
+      <!-- ---------------mobile-list----------------- -->
+      <div class="mobile-list">
+        <div class="xIcon">
+          <i class="fa-regular fa-circle-xmark"></i>
+        </div>
+        <div class="logo-mobile">
+          <img src="./images/logo/myWorkLogo.png" alt="logo mobile" />
+          <h2>MyWork.az</h2>
+        </div>
+        <ul class="menu-list-mobile">
+          <li>
+            <a class="home-cards-mobile">Ana Səhifə</a>
+          </li>
+          <li>
+            <a class="all-cards">İş elanları</a>
+          </li>
+          <li>
+            <a class="new-cards">CVlər</a>
+          </li>
+        </ul>
+        <p class="border"></p>
+        <div class="sosial-networks">
+          <i class="fa-brands fa-facebook"></i>
+          <i class="fa-brands fa-instagram"></i>
+          <i class="fa-brands fa-linkedin"></i>
+          <i class="fa-brands fa-twitter"></i>
+        </div>
+      </div>
+      <!-- ---------------navbar----------------- -->
+      <nav>
+        <div class="logo-mobile">
+          <div class="logo-element-in-mobile">
+            <img src="./images/logo/myWorkLogo.png" alt="Logo" />
+            <h2>MyWork.az</h2>
+          </div>
+          <div class="navbar-right-side">
+            <!-- ------------login-button--------- -->
+            <div onclick="loginFunction()" class="login-in-mobile">
+              <p>Login</p>
+              <i class="fa-solid fa-user"></i>
+            </div>
+            <!-- ------------user-button--------- -->
+            <div class="user-in-mobile">
+              <p>Azad</p>
+              <i class="fa-solid fa-user"></i>
+              <div class="user-element">
+                <a href="./profil.html" target="_blank">Profil</a>
+                <p class="user-exit-mobile">Çıxış</p>
+              </div>
+            </div>
+            <!-- ------------hamburger--------- -->
+            <div class="hamburger-element">
+              <i class="fa-solid fa-bars"></i>
+            </div>
+          </div>
+          <ul class="menu-list">
+            <li>
+              <a class="home-cards">Ana Səhifə</a>
+            </li>
+            <li>
+              <a class="all-cards active-all-card">İş elanları</a>
+            </li>
+            <li>
+              <a class="new-cards active-new-card">CVlər</a>
+            </li>
+          </ul>
+          <!-- ------------login-button--------- -->
+          <div class="login" onclick="loginFunction()">
+            <p>Login</p>
+            <i class="fa-solid fa-user"></i>
+          </div>
+          <!-- ------------user-button--------- -->
+          <div class="user-in-desktop">
+            <div class="user1">
+              <p>Azad</p>
+              <i class="fa-solid fa-user"></i>
+            </div>
+            <div class="user-element1">
+              <a
+                href="./profil.html"
+                target="_blank"
+                class="user-profile-desktop"
+                >Profil</a
+              >
+              <p class="user-exit-desktop">Çıxış</p>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <!-- ---------------slider----------------- -->
+      <div class="slider-container">
+        <ul class="slider-element">
+          <p class="slider-title">Axtardığın işi burada tapacaqsan!</p>
+          <li class="slide">
+            <img src="./images/slider/slider1.jpg" alt="slider 1" />
+          </li>
+        </ul>
+      </div>
+    </header>
+    <!-- ---------------main----------------- -->
+    <main>
+      <!-- ---------------filter----------------- -->
+      <section class="filter-container">
+        <div class="filter-elements">
+          <div class="two-elements">
+            <p class="search-cars">Avtomobil Axtar</p>
+            <p class="add-cars">Avtomobilini Əlavə Et</p>
+          </div>
+          <div class="add-cars-texts">
+            <p>
+              Avtomobilinizi Əlavə etmək istəyirsinizsə, öncə Qeydiyyatdan keçin
+              və ya Hesabınıza daxil olun!
+            </p>
+          </div>
+          <!-- ------------users-add-cars------------- -->
+          <div class="users-add-cars">
+            <form class="users-add-inputs">
+              <ul>
+                <!-- ----------left-side---------- -->
+                <div class="left-side-element">
+                  <li>
+                    <label for="marka1">Marka<sup>*</sup></label>
+                    <select name="marka1" id="marka1">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="model1">Model<sup>*</sup></label>
+                    <select name="model1" id="model1">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="ban">Ban növü<sup>*</sup></label>
+                    <select name="ban" id="ban">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li class="millage-li">
+                    <div>
+                      <label for="millage">Yürüş<sup>*</sup></label>
+                    </div>
+                    <div>
+                      <input type="millage" name="millage" id="millage" />
+                      <input type="radio" name="km" id="km" />
+                      <label for="km">km</label>
+                      <input type="radio" name="km" id="mil" />
+                      <label for="mil">mil</label>
+                    </div>
+                  </li>
+                  <li>
+                    <label for="color">Rəng</label>
+                    <select name="color" id="color">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li class="price-li">
+                    <div>
+                      <label for="price1">Qiymət<sup>*</sup></label>
+                    </div>
+                    <div>
+                      <input type="price1" name="price1" id="price1" />
+                      <input type="radio" name="azn" id="azn" />
+                      <label for="azn">AZN</label>
+                      <input type="radio" name="azn" id="usd" />
+                      <label for="usd">USD</label>
+                    </div>
+                  </li>
+                </div>
+                <!-- ----------right-side---------- -->
+                <div class="right-side-element">
+                  <li>
+                    <label for="fuel">Yanacaq növü<sup>*</sup></label>
+                    <select name="fuel" id="fuel">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="transmitter">Ötürücü<sup>*</sup></label>
+                    <select name="transmitter" id="transmitter">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="transmitter">Sürətlər qutusu<sup>*</sup></label>
+                    <select name="gearbox" id="gearbox">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="year">Buraxılış ili<sup>*</sup></label>
+                    <select name="year" id="year">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="engine"
+                      >Mühərrikin həcmi,sm<sup class="kub">3</sup
+                      ><sup>*</sup></label
+                    >
+                    <select name="engine" id="engine">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                  <li>
+                    <label for="enginePower"
+                      >Mühərrikin gücü,a.g<sup>*</sup></label
+                    >
+                    <select name="enginePower" id="enginePower">
+                      <option value="">Seçin</option>
+                    </select>
+                  </li>
+                </div>
+              </ul>
+              <!-- --------------bottom-side------------- -->
+              <ol class="bottom-side-element">
+                <li>
+                  <div>
+                    <p>Vəziyyəti</p>
+                  </div>
+                  <ul class="situation-elements">
+                    <li>
+                      <input type="radio" name="haveCrash" id="haveCrash" />
+                      <label for="haveCrash">Vuruğu var</label>
+                    </li>
+                    <li>
+                      <input type="radio" name="makeColor" id="makeColor" />
+                      <label for="makeColor">Rənglənib</label>
+                    </li>
+                    <li>
+                      <input type="radio" name="crash" id="crash" />
+                      <label for="crash">Qəzalı</label>
+                    </li>
+                    <li>
+                      <input type="radio" name="rent" id="rent" />
+                      <label for="rent">İcarə</label>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <div class="point">.</div>
+                  <div class="type-sales">
+                    <div>
+                      <input type="radio" name="credit" id="credit" />
+                      <label for="credit">Kreditlə</label>
+                    </div>
+                    <div>
+                      <input type="radio" name="barter" id="barter" />
+                      <label for="barter">Barter mümkündür</label>
+                    </div>
+                  </div>
+                </li>
+                <li class="vin-element">
+                  <label for="vin">Vin-kod</label>
+                  <input type="text" name="vin" id="vin" />
+                </li>
+                <li class="add-message-element">
+                  <label for="addMessage">Əlavə qeyd</label>
+                  <textarea name="addMessage" id="addMessage"></textarea>
+                </li>
+                <li class="cars-tools-elements">
+                  <p>Avtomobilin təchizatı</p>
+                  <ul class="cars-tools">
+                    <li>
+                      <div>
+                        <input type="radio" name="wheel" id="wheel" />
+                        <label for="wheel">Yüngül lehimli disklər</label>
+                      </div>
+                      <div>
+                        <input
+                          type="radio"
+                          name="centralClose"
+                          id="centralClose"
+                        />
+                        <label for="centralClose">Mərkəzi qapanma</label>
+                      </div>
+                      <div>
+                        <input type="radio" name="interrior" id="interrior" />
+                        <label for="interrior">Dəri salon</label>
+                      </div>
+                      <div>
+                        <input
+                          type="radio"
+                          name="sitWheather"
+                          id="sitWheather"
+                        />
+                        <label for="sitWheather"
+                          >Oturacaqların ventilyasiyası</label
+                        >
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <input type="radio" name="ABS" id="ABS" />
+                        <label for="ABS">ABS</label>
+                      </div>
+                      <div>
+                        <input type="radio" name="radar" id="radar" />
+                        <label for="radar">Park radarı</label>
+                      </div>
+                      <div>
+                        <input type="radio" name="lamps" id="lamps" />
+                        <label for="lamps">Ksenon lampalar</label>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <input type="radio" name="Lyuk" id="Lyuk" />
+                        <label for="Lyuk">Lyuk</label>
+                      </div>
+                      <div>
+                        <input
+                          type="radio"
+                          name="Kondisioner"
+                          id="Kondisioner"
+                        />
+                        <label for="Kondisioner">Kondisioner</label>
+                      </div>
+                      <div>
+                        <input type="radio" name="camera" id="camera" />
+                        <label for="camera">Arxa görüntü kamerası</label>
+                      </div>
+                    </li>
+                    <li>
+                      <div>
+                        <input type="radio" name="rain" id="rain" />
+                        <label for="rain">Yağış sensoru</label>
+                      </div>
+                      <div>
+                        <input type="radio" name="sitHot" id="sitHot" />
+                        <label for="sitHot">Oturacaqların isidilməsi</label>
+                      </div>
+                      <div>
+                        <input
+                          type="radio"
+                          name="sideCurtain"
+                          id="sideCurtain"
+                        />
+                        <label for="sideCurtain">Yan pərdələr</label>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+                <li class="pictures-container">
+                  <p class="picture-text">Şəkillər</p>
+                  <div class="pictures-border">
+                    <div>
+                      <p>
+                        - Minimum – 3 şəkil (ön, arxa və bütöv ön panelin
+                        görüntüsü mütləqdir).
+                      </p>
+                      <p>- Maksimum – 21 şəkil.</p>
+                      <p>- Optimal ölçü – 1024x768 piksel.</p>
+                    </div>
+                    <div>
+                      <input type="file" name="pictures" id="pictures" />
+                      <button class="custom-button">+</button>
+                    </div>
+                  </div>
+                </li>
+                <li class="add-button-element">
+                  <button>Əlavə et</button>
+                </li>
+              </ol>
+            </form>
+          </div>
+          <form class="input-elements">
+            <!-- ---------marka--------- -->
+            <div class="marka-element">
+              <label class="marka" for="marka">Marka</label>
+              <select name="Marka" id="marka"></select>
+              <i class="fa-solid fa-chevron-down arrow-in-input"></i>
+            </div>
+            <!-- ---------model--------- -->
+            <div class="model-element">
+              <label class="model" for="model">Model</label>
+              <select name="Model" id="model"></select>
+              <i class="fa-solid fa-chevron-down arrow-in-input"></i>
+            </div>
+            <!-- ---------price--------- -->
+            <div class="price-elements">
+              <label class="price" for="priceMin">Qiymət</label>
+              <input
+                type="number"
+                name="price"
+                id="priceMin"
+                placeholder="min"
+              />
+              <input
+                type="number"
+                name="price"
+                id="priceMax"
+                placeholder="max"
+              />
+            </div>
+            <!-- ---------submit--------- -->
+            <input class="submit-button" type="submit" value="Axtar" />
+          </form>
+        </div>
+      </section>
+      <!-- ---------------cards----------------- -->
+      <section class="cards-container">
+        <ul class="cards-element"></ul>
+        <ul class="selected-container"></ul>
+        <!-- <p class="not-information">Məlumat tapılmadı</p> -->
+      </section>
+      <div id="pagination-controls"></div>
+    </main>
+    <!-- ---------------footer----------------- -->
+    <footer>
+      <div class="footer-element">
+        <div class="footer-part">
+          <div class="footer-logo">
+            <img src="./images/logo/whiteLogo.png" alt="logo" />
+          </div>
+          <ul class="footer-list">
+            <li>
+              <a href="">
+                <i class="fa-solid fa-phone"></i>
+                <p>+994 (12) 123 45 67</p>
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <i class="fa-solid fa-envelope"></i>
+                <p>info@minik.az</p>
+              </a>
+            </li>
+            <li class="footer-social">
+              <a href="">
+                <i class="fa-brands fa-facebook"></i>
+              </a>
+              <a href="">
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+              <a href="">
+                <i class="fa-brands fa-linkedin"></i>
+              </a>
+              <a href="">
+                <i class="fa-brands fa-twitter"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+    <script src="./home.js"></script>
+    <script src="./cards.js"></script>
+  </body>
+</html>
