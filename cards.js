@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-800 AZN",
       contact: "TƏBRİZ",
       phoneNumber: "(012) 433-65-87",
@@ -76,6 +77,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "Yüksək səviyyədə nitq qabiliyyəti, özünütəqdimat bacarığı",
       demand10: "Səlis, aydın, əmin danışıq tərzi",
       prices: 500,
+      salary: "500 AZN",
       price: "500-700 AZN",
       contact: "İslam Balabəyov",
       phoneNumber: "(070) 275-55-05",
@@ -117,6 +119,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-700",
       contact: "Elvin",
       phoneNumber: "(055) 400-44-84",
@@ -162,6 +165,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 600,
+      salary: "600 AZN",
       price: "600-900 AZN",
       contact: "İnsan resursları şöbəsi",
       phoneNumber: "(077) 277-11-79",
@@ -204,6 +208,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "Analitik təhlil etmə qabiliyyəti",
       demand10: "İşə yaradıcı və təşəbbüskar yanaşma",
       prices: 1000,
+      salary: "1000 AZN",
       price: "1000 AZN",
       contact: "İnsan resursları şöbəsi",
       phoneNumber: "-",
@@ -247,6 +252,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500 AZN",
       contact: "Cahan",
       phoneNumber: "(+994)12 404 14 45",
@@ -290,6 +296,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 600,
+      salary: "600 AZN",
       price: "600-700 AZN",
       contact: "İnsan Resursları",
       phoneNumber: "(051) 235-78-74",
@@ -343,6 +350,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 800,
+      salary: "800 AZN",
       price: "800 AZN",
       contact: "Akif",
       phoneNumber: "-",
@@ -389,6 +397,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Maraqlanan namizədlər mövzu yerində “Mühasib köməkçisi” yazmaqla öz CV-lərini info@atapack.az ünvanına göndərə bilərlər",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-550 AZN",
       contact: "Fidan xanım",
       phoneNumber: "(050) 596-08-06",
@@ -438,6 +447,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Əmək haqqı namizədin sahə üzrə təcrübə və bilikləri əsasında müəyyən olunacaq",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-700 AZN",
       contact: "Nazim",
       phoneNumber: "(051) 935-07-53",
@@ -480,6 +490,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "CV formalarınızı Whatsapp üzərindən göndərməyiniz xahiş olunur",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-600 AZN",
       contact: "Ceyhun",
       phoneNumber: "(055) 209-59-21",
@@ -523,6 +534,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 1100,
+      salary: "1100 AZN",
       price: "1100-1400 AZN",
       contact: "Azad",
       phoneNumber: "(012) 404-19-99",
@@ -562,6 +574,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-800 AZN",
       contact: "Züleyxa xanım",
       phoneNumber: "(055) 966-55-44",
@@ -607,6 +620,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-700 AZN",
       contact: "Insan resursları",
       phoneNumber: "196",
@@ -651,6 +665,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 600,
+      salary: "600 AZN",
       price: "600 AZN",
       contact: "Emin",
       phoneNumber: "(055) 425-01-10",
@@ -694,6 +709,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 1000,
+      salary: "1000 AZN",
       price: "1000 AZN",
       contact: "Cavid",
       phoneNumber: "-",
@@ -737,6 +753,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-700 AZN",
       contact: "Vusal Quliyev",
       phoneNumber: "(012) 460-72-01",
@@ -780,6 +797,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "Nəticə yönümlülük",
       demand10: "",
       prices: 1000,
+      salary: "1000 AZN",
       price: "1000 AZN",
       contact: "Zaur",
       phoneNumber: "-",
@@ -820,6 +838,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 700,
+      salary: "700 AZN",
       price: "700-1200 AZN",
       contact: "Azad",
       phoneNumber: "(077) 769-00-07",
@@ -862,6 +881,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 600,
+      salary: "600 AZN",
       price: "600-700 AZN",
       contact: "Nazim",
       phoneNumber: "(012) 310-11-78",
@@ -901,6 +921,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "Güclü öyrənmək qabiliyyəti olmalıdır",
       demand10: "Tərcüməçilik üzrə məzun olanlara üstünlük veriləcək",
       prices: 400,
+      salary: "400 AZN",
       price: "400 AZN",
       contact: "Akim",
       phoneNumber: "(012) 408-18-59",
@@ -947,6 +968,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 700,
+      salary: "700 AZN",
       price: "700-1000 AZN",
       contact: "Müjgan xanım",
       phoneNumber: "(050) 688-11-88",
@@ -991,6 +1013,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-800 AZN",
       contact: "Günəş xanım",
       phoneNumber: "(012) 570-65-42",
@@ -1032,6 +1055,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "Şəhəri orta səviyyədə tanımağı vacibdir",
       demand10: "Komputer biliyi orta olmağı kifayət edir",
       prices: 400,
+      salary: "400 AZN",
       price: "400-2300 AZN",
       contact: "Hemid Bey",
       phoneNumber: "(070) 217-38-38",
@@ -1076,6 +1100,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 300,
+      salary: "300 AZN",
       price: "300-400 AZN",
       contact: "Günel Məmmədli",
       phoneNumber: "(012) 310-40-33",
@@ -1118,6 +1143,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 1500,
+      salary: "1500 AZN",
       price: "1500-2000 AZN",
       contact: "Atilla",
       phoneNumber: "(055) 457-17-17",
@@ -1160,6 +1186,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-800 AZN",
       contact: "Nihad",
       phoneNumber: "(055) 217-80-09",
@@ -1205,6 +1232,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 700,
+      salary: "700 AZN",
       price: "700-900 AZN",
       contact: "Amaliya xanım",
       phoneNumber: "(012) 510-58-83",
@@ -1245,6 +1273,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-800 AZN",
       contact: "Aysu xanım",
       phoneNumber: "(055) 819-74-15",
@@ -1288,6 +1317,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 500,
+      salary: "500 AZN",
       price: "500-700 AZN",
       contact: "Vəliyeva Aysel",
       phoneNumber: "(012) 421-11-11",
@@ -1332,6 +1362,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 400,
+      salary: "400 AZN",
       price: "400-2000 AZN",
       contact: "Ülvi",
       phoneNumber: "(050) 478-00-06",
@@ -1373,6 +1404,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand10:
         "Ünsiyyətcil olmaq və kollektivlə birgə işləməyi bacarmaq satiş təmsilcisi tikinti üzrə",
       prices: 600,
+      salary: "600 AZN",
       price: "600-900 AZN",
       contact: "İR şöbəsi",
       phoneNumber: "(050) 752-48-15",
@@ -1416,6 +1448,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 2000,
+      salary: "2000 AZN",
       price: "2000-2500 AZN",
       contact: "Nailə",
       phoneNumber: "-",
@@ -1463,6 +1496,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 1500,
+      salary: "1500 AZN",
       price: "1500-1700 AZN",
       contact: "Tahir",
       phoneNumber: "-",
@@ -1510,6 +1544,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "Yüksək araşdırma və tədqiqat bacarığı",
       demand10: "Yeni bilik və bacarıqlara yiyələnmək həvəsi, təşəbbüskarlıq",
       prices: 1000,
+      salary: "1000 AZN",
       price: "1000-1500 AZN",
       contact: "Abbasova Olqa",
       phoneNumber: "(018) 653-24-90",
@@ -1550,6 +1585,7 @@ document.addEventListener("DOMContentLoaded", function () {
       demand9: "",
       demand10: "",
       prices: 600,
+      salary: "600 AZN",
       price: "600 AZN",
       contact: "İsmayıl",
       phoneNumber: "-",
@@ -1598,6 +1634,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "İşə qəbul prosesi, namizədlərin təhsil və iş təcrübələri nəzərə alınaraq həyata keçiriləcəkdir.",
       demand10: "",
       prices: 900,
+      salary: "900 AZN",
       price: "900-1000 AZN",
       contact: "Dilarə",
       phoneNumber: "(055) 228-60-22",
@@ -1614,276 +1651,312 @@ document.addEventListener("DOMContentLoaded", function () {
   const rentCar = [
     {
       id: 1,
-      jobName: "",
-      companyName: "",
-      category: "",
-      kind: "",
-      staj: "",
-      startTime: "",
-      endTime: "",
-      education: "",
-      age: "",
-      text1: "",
-      text2: "",
-      text3: "",
-      text4: "",
-      text5: "",
-      text6: "",
-      text7: "",
-      text8: "",
+      jobName: "Mühasib",
+      companyName: "Rza Fəridov",
+      category: "Maliyyə",
+      kind: "Mühasibat",
+      staj: "3 il",
+      startTime: "İyul 10, 2024",
+      endTime: "Avqust 10, 2024",
+      education: "Ali",
+      age: "24",
+      text1: "e-taxes.gov.az (asan imza ilə əlaqəli əməliyyatların aparılması)",
+      text2: "E-qaimə, online kargüzarlıq",
+      text3: "İkili müxabirləşmələrin aparılması",
+      text4:
+        "1 C 8.3 proqramında ilkin sənədlərə əsasən bütün müxabirləşmələrin aparılması",
+      text5:
+        "emas.sosial.gov.az portalında əmək müqaviləsinin bağlanması, dəyişdirilməsi və xitam ərizəsinin yazılması və.s",
+      text6:
+        "Bank əməliyyatları, kassa mədaxil və kassa məxaric əməliyyatlarının aparılması",
+      text7: "Azərbaycan Dövlət Pedoqoji Universiteti, Fizika (2003 - 2007)",
+      text8:
+        "Praktik Mühasibatlıq təlimi - Forward Academy - (01.03.2023-31.06.2023) - Maliyyə uçotu, Mühasibatlıq, Vergi uçotu və 1C 8.3 mühasibat proqramı",
       text9: "",
       text10: "",
-      demand1: "",
-      demand2: "",
-      demand3: "",
-      demand4: "",
-      demand5: "",
-      demand6: "",
-      demand7: "",
+      demand1: "1 ildən 3 ilə qədər",
+      demand2:
+        "Mirlər MMC – Mühasib köməkçisi (Operator) (01.05.2020 – 31.12.2020)",
+      demand3:
+        "King Road Group MMC - Mühasib köməkçisi (Operator) (05.12.2021 – 31.09.2021)",
+      demand4: "Microsoft Word - yaxşı",
+      demand5: "Microsoft Excel - yaxşı",
+      demand6: "1C 8.3 - yaxşı",
+      demand7:
+        "İşimə qarşı məsuliyyətliyəm. Doğru, dürüst iş mühitində və kollektivində işləməyə hazıram. Sumqayıt şəhərinə yaxın müəssisələrdə işləməyə üstünlük verirəm.",
       demand8: "",
       demand9: "",
       demand10: "",
-      prices: 500,
-      price: "",
-      contact: "",
-      phoneNumber: "",
-      email: "",
-      dates: "07.24.2024",
-      date: "24.07.2024",
+      prices: 400,
+      salary: "400 AZN",
+      price: "400 AZN",
+      contact: "Rza",
+      phoneNumber: "-",
+      email: "rza@gmail.com",
+      dates: "07.10.2024",
+      date: "10.07.2024",
     },
     {
       id: 2,
-      jobName: "",
-      companyName: "",
-      category: "",
-      kind: "",
-      staj: "",
-      startTime: "",
-      endTime: "",
-      education: "",
-      age: "",
-      text1: "",
-      text2: "",
-      text3: "",
-      text4: "",
+      jobName: "REKLAMCI",
+      companyName: "Nurlan Rəhimov",
+      category: "Marketinq",
+      kind: "Reklam",
+      staj: "2 il",
+      startTime: "May 12, 2024",
+      endTime: "Iyun 12, 2024",
+      education: "Ali",
+      age: "29",
+      text1:
+        "Bina evlerinde manaq asilqan ve.s kimi eşyalarin reklamı teqdim olnmasi",
+      text2:
+        "Sayt reklacisi olaraq six yerlere elanlarin yapisdirilmasi her cur sattın canlı reklamı",
+      text3:
+        "Qida üzre ise kicik obyektlerle iş birliyi ve ya ferqli terzde reklamlar ede bilirem",
+      text4: "Orta təhsilim var 307 nömrəli tam orta məktəbi bitirmişəm",
       text5: "",
       text6: "",
       text7: "",
       text8: "",
       text9: "",
       text10: "",
-      demand1: "",
-      demand2: "",
-      demand3: "",
-      demand4: "",
-      demand5: "",
-      demand6: "",
+      demand1:
+        "Quen FF mmc de reklamci ve menecer kimi 3 il calismisam (2019_2022)",
+      demand2: "Bet sayt reklacisi kimi 1 il calismisam",
+      demand3: "Qalan vaxtlarda başka reklam tipli işlerde islemisem",
+      demand4: "İşlediyim işler hec biri resmi olmayib.",
+      demand5:
+        "Serbest reklamcı kimi eşya ve ya qidani şehrin her bir yerinde lazimi qeder reklamını ede bilirem etdiyim işler tam olaraq realdir (internet üzerinden reklam etmirem!) merc ve elan sayitlarinin reklamı kecerlidir",
+      demand6:
+        "Tam olaram etraflı zeng etmek olar(Ferqli idea ve fikirler teklif ede bilirem hansi saheye uygun olmasından aslı olaraq)",
       demand7: "",
       demand8: "",
       demand9: "",
       demand10: "",
-      prices: 500,
-      price: "",
-      contact: "",
-      phoneNumber: "",
-      email: "",
-      dates: "07.24.2024",
-      date: "24.07.2024",
+      prices: 400,
+      salary: "400 AZN",
+      price: "400 AZN",
+      contact: "Nurlan",
+      phoneNumber: "-",
+      email: "nurlan@gmail.com",
+      dates: "05.12.2024",
+      date: "12.05.2024",
     },
     {
       id: 3,
-      jobName: "",
-      companyName: "",
-      category: "",
-      kind: "",
-      staj: "",
-      startTime: "",
-      endTime: "",
-      education: "",
-      age: "",
-      text1: "",
-      text2: "",
-      text3: "",
-      text4: "",
-      text5: "",
-      text6: "",
-      text7: "",
-      text8: "",
-      text9: "",
+      jobName: "JUNİOR BACKEND PROQRAMÇI",
+      companyName: "Ruslan Vəliyev",
+      category: "İnformasiya texnologiyaları",
+      kind: "Proqramlaşdırma",
+      staj: "2 il",
+      startTime: "Iyun 13, 2024",
+      endTime: "Iyul 13, 2024",
+      education: "Ali",
+      age: "25",
+      text1: "ASP.Net",
+      text2: "ASP.Net Core",
+      text3: "ASP.Net MVC",
+      text4: "ASP.Net Web Api",
+      text5: "SOLID Principles",
+      text6: "JWT",
+      text7: "Github / Gitlab",
+      text8: "SQL",
+      text9: "C#",
       text10: "",
-      demand1: "",
-      demand2: "",
-      demand3: "",
-      demand4: "",
-      demand5: "",
-      demand6: "",
+      demand1: "5 ildən artıq",
+      demand2: "2013-cu il Avangard N MMC-də laboratory assistant,",
+      demand3:
+        "2014-cü ilin yanvar ayından sentyab ayına qədər graphic designer,",
+      demand4:
+        "2015-ci ilin aprel ayından 2017-ci ilin dekabrına kimi security guard,",
+      demand5: "2019-cu ilin may ayında warehoseman kimi işləmişəm.",
+      demand6:
+        "Bundan başqa freelancer kimi Port of Bakuda backend developer kimi işləmişəm.",
       demand7: "",
       demand8: "",
       demand9: "",
       demand10: "",
-      prices: 500,
-      price: "",
-      contact: "",
-      phoneNumber: "",
-      email: "",
-      dates: "07.24.2024",
-      date: "24.07.2024",
+      prices: 600,
+      salary: "600 AZN",
+      price: "600 AZN",
+      contact: "Ruslan",
+      phoneNumber: "-",
+      email: "ruslan@gmail.com",
+      dates: "06.13.2024",
+      date: "13.06.2024",
     },
     {
       id: 4,
-      jobName: "",
-      companyName: "",
-      category: "",
-      kind: "",
-      staj: "",
-      startTime: "",
-      endTime: "",
-      education: "",
-      age: "",
-      text1: "",
-      text2: "",
-      text3: "",
-      text4: "",
-      text5: "",
-      text6: "",
-      text7: "",
-      text8: "",
-      text9: "",
-      text10: "",
-      demand1: "",
-      demand2: "",
-      demand3: "",
-      demand4: "",
-      demand5: "",
-      demand6: "",
-      demand7: "",
+      jobName: "FLUTTER PROQRAMÇI",
+      companyName: "Hüseyn Vəliyev",
+      category: "İnformasiya texnologiyaları",
+      kind: "Proqramlaşdırma",
+      staj: "3 il",
+      startTime: "Aprel 11, 2024",
+      endTime: "May 11, 2024",
+      education: "Ali",
+      age: "27",
+      text1: "Dart",
+      text2: "Flutter",
+      text3: "Clean architecture",
+      text4: "Firebase",
+      text5: "Api",
+      text6: "Git",
+      text7: "MVC, MVVM,",
+      text8: "Bloc",
+      text9: "Provider",
+      text10: "Getx.",
+      demand1: "1 ildən 3 ilə qədər",
+      demand2: "AlfaSoft MMC, Flutter proqramçı – (04/10/2023 -01/06/2024)",
+      demand3:
+        "Mobil strukturda yazilmiş proqramlara dəstək verilmesi, yeni funksiyanalliqlarin elave edilmesi, Apiler ile inteqrasiya",
+      demand4:
+        "Ucon app (Startup) – Flutter proqramçı – (10/04/2023 -15/09/2023)",
+      demand5: "Fintech mobil proqramının yazılması",
+      demand6: "Frazex LLC Flutter üzrə təcrübəçi – (14/11/2022 -14/05/2023)",
+      demand7:
+        "Mobil strukturda yazilmiş proqramlara dəstək verilmesi, yeni funksiyanalliqlarin elave edilmesi, Apiler ile inteqrasiya",
       demand8: "",
       demand9: "",
       demand10: "",
-      prices: 500,
-      price: "",
-      contact: "",
-      phoneNumber: "",
-      email: "",
-      dates: "07.24.2024",
-      date: "24.07.2024",
+      prices: 1000,
+      salary: "1000 AZN",
+      price: "1000 AZN",
+      contact: "Hüseyn",
+      phoneNumber: "-",
+      email: "huseyn@gmail.com",
+      dates: "04.11.2024",
+      date: "11.04.2024",
     },
     {
       id: 5,
-      jobName: "",
-      companyName: "",
-      category: "",
-      kind: "",
-      staj: "",
-      startTime: "",
-      endTime: "",
-      education: "",
-      age: "",
-      text1: "",
-      text2: "",
-      text3: "",
-      text4: "",
-      text5: "",
-      text6: "",
-      text7: "",
-      text8: "",
-      text9: "",
-      text10: "",
-      demand1: "",
-      demand2: "",
-      demand3: "",
-      demand4: "",
-      demand5: "",
-      demand6: "",
-      demand7: "",
-      demand8: "",
-      demand9: "",
-      demand10: "",
+      jobName: "İNSAN RESUSLARI ÜZRƏ MÜTƏXƏSSİS",
+      companyName: "Səkinəxanım Əliyeva",
+      category: "İnzibati",
+      kind: "Heyətin idarəolunması",
+      staj: "3 il",
+      startTime: "Iyun 22, 2024",
+      endTime: "Iyul 22, 2024",
+      education: "Ali",
+      age: "30",
+      text1: "ƏMAS - da işləmək",
+      text2: "Əmək kitabçası yazılması",
+      text3: "Tabellərin hazırlanması və əmək haqqının hesablanması",
+      text4: "Məzuniyyət, Məzuniyyət növləri, Məzuniyyət qalığı",
+      text5: "Məzuniyyət əmrləri hesablanması",
+      text6:
+        "Məzuniyyət, Ezamiyyət və Overtime proseslərinin yerinə yetirilməsi və hesablanması",
+      text7:
+        "Əmək Məcəlləsinə əsasən müqavilələrin, sınaq müddəti, staj hesablanması və əmrlərinin hazırlanması",
+      text8:
+        "Əsas və Əlavə iş yerinin iş saatları və tabellər üzərində qurulması",
+      text9: "Əmək haqqı hesablanması",
+      text10: "Tutulmalar və Müavinətlərin hesablanması",
+      demand1: "1 ildən 3 ilə qədər",
+      demand2:
+        "Karyera və İşə Hazırlıq Mərkəzi MMC İnsan resusları üzrə təcrübəçi (04.2024 - 06.2024)",
+      demand3: "Mədinə Uşaq Bağçası - Qeydiyyatçı (2018 - 2019)",
+      demand4: "Adress Baku Daşınmaz Əmlak Agentliyi - Operator (2017 - 2018)",
+      demand5:
+        "İşgüzar, çalışqan, yenilikçi, dəyişimə açıq, pozitiv şəxsəm. Kollektivdə iş üslubum və disiplinimlə fərqlənirəm. Hər zaman inkişafda olmağa və olduğum sahədə daha yaxşı olmaq üçün bütün bilik və bacarığımı ortaya qoymaq həyat devizimdir.",
+      demand6: "Fərdi və kollektivlə iş",
+      demand7: "Kommunikasiya bacarıqları",
+      demand8: "Qərar verə bilmə",
+      demand9: "Yaradıcı düşüncə",
+      demand10: "Empatiya",
       prices: 500,
-      price: "",
-      contact: "",
-      phoneNumber: "",
-      email: "",
-      dates: "07.24.2024",
-      date: "24.07.2024",
+      salary: "500 AZN",
+      price: "500 AZN",
+      contact: "Səkinəxanım",
+      phoneNumber: "-",
+      email: "sekinekhanim@gmail.com",
+      dates: "06.22.2024",
+      date: "22.06.2024",
     },
     {
       id: 6,
-      jobName: "",
-      companyName: "",
-      category: "",
-      kind: "",
-      staj: "",
-      startTime: "",
-      endTime: "",
-      education: "",
-      age: "",
-      text1: "",
-      text2: "",
-      text3: "",
-      text4: "",
-      text5: "",
-      text6: "",
-      text7: "",
+      jobName: "DİZAYNER",
+      companyName: "Samir İbrahimov",
+      category: "Dizayn",
+      kind: "Digər",
+      staj: "5 il",
+      startTime: "May 2, 2024",
+      endTime: "Iyun 2, 2024",
+      education: "Ali",
+      age: "30",
+      text1: "3Ds Max (Corona / vray)",
+      text2: "Autocad",
+      text3: "Photoshop",
+      text4: "Illustrator",
+      text5:
+        "Corona render sertifikati (Chaos group lisenziyali muellim terefinden)",
+      text6: "Suruculuk vesiqesi - BC",
+      text7:
+        "Azərbaycan Dövlət Neft və Sənaye Universiteti - Energetika mühəndisi",
       text8: "",
       text9: "",
       text10: "",
-      demand1: "",
-      demand2: "",
-      demand3: "",
-      demand4: "",
-      demand5: "",
-      demand6: "",
-      demand7: "",
-      demand8: "",
+      demand1: "5 ildən artıq",
+      demand2: "2013 - bu gune - Freelance dizayner",
+      demand3: "2018 - Sauna Insaat - Interyer dizayner",
+      demand4:
+        "2018-2019 - Ucler Holding (Istanbul,Turkiye) - eksteryer dizayner",
+      demand5: "2019-2021 - Arche Luxury - Interyer dizayner",
+      demand6:
+        "2021-2022 - Still Mimarlik (Eskisehir,Turkiye) - dizayn rehberi, magaza muduru",
+      demand7: "2022 - bu gune - DAP Mimarlik (Istanbul,Turkiye) - dizayner",
+      demand8: "Freelance isler ucun elaqe saxlaya bilersiz",
       demand9: "",
       demand10: "",
-      prices: 500,
-      price: "",
-      contact: "",
-      phoneNumber: "",
-      email: "",
-      dates: "07.24.2024",
-      date: "24.07.2024",
+      prices: 1500,
+      salary: "1500 AZN",
+      price: "1500 AZN",
+      contact: "Samir",
+      phoneNumber: "-",
+      email: "samir@gmail.com",
+      dates: "05.02.2024",
+      date: "02.05.2024",
     },
     {
       id: 7,
-      jobName: "",
-      companyName: "",
-      category: "",
-      kind: "",
-      staj: "",
-      startTime: "",
-      endTime: "",
-      education: "",
-      age: "",
-      text1: "",
-      text2: "",
-      text3: "",
-      text4: "",
-      text5: "",
-      text6: "",
-      text7: "",
-      text8: "",
-      text9: "",
-      text10: "",
-      demand1: "",
-      demand2: "",
-      demand3: "",
-      demand4: "",
-      demand5: "",
-      demand6: "",
-      demand7: "",
-      demand8: "",
-      demand9: "",
+      jobName: "QRAFİK DİZAYNER",
+      companyName: "Süleyman Məmmədli",
+      category: "Dizayn",
+      kind: "Digər",
+      staj: "5 il",
+      startTime: "Iyun 12, 2024",
+      endTime: "Iyul 12, 2024",
+      education: "Ali",
+      age: "30",
+      text1: "Corel driwe",
+      text2: "Photoshop",
+      text3: "Power point",
+      text4: "Excel",
+      text5: "World",
+      text6: "Photograp",
+      text7: "Corelpoint",
+      text8: "Adope Illustrator",
+      text9: "Uv",
+      text10: "Dtf",
+      demand1: "5 ildən artıq",
+      demand2: "1ildən 3 ilədək Qrafik Dizayner Alohediyyeler",
+      demand3: "1il Qrafik Dizayner Vector print",
+      demand4: "1il Qrafik Dizayner Piramida reklam",
+      demand5: "1il Qrafik Dizayner Zeh print",
+      demand6: "İşlərin vaxtı vaxtında verilməsi",
+      demand7: "İşimdə məsulyyıtliyəm",
+      demand8: "Komandayla işləmə bacarığı",
+      demand9:
+        "Dizayn sahəsinə aid bütün işlərin görülməsi(İç reklam,Çöl reklam,Buklet,Vinil,Flayer,Promo işlər)",
       demand10: "",
-      prices: 500,
-      price: "",
-      contact: "",
-      phoneNumber: "",
-      email: "",
-      dates: "07.24.2024",
-      date: "24.07.2024",
+      prices: 800,
+      salary: "800 AZN",
+      price: "800 AZN",
+      contact: "Süleyman",
+      phoneNumber: "-",
+      email: "suleyman@gmail.com",
+      dates: "06.12.2024",
+      date: "12.06.2024",
     },
   ];
 
@@ -1901,8 +1974,6 @@ document.addEventListener("DOMContentLoaded", function () {
   let isNewCardClicked = false;
   const recordsPerPage = 20;
   const numberOfPages = Math.ceil(cardsInformations.length / recordsPerPage);
-
-  const currentDate = new Date();
 
   function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
@@ -2070,7 +2141,7 @@ document.addEventListener("DOMContentLoaded", function () {
       sliderElement.style.display = "none";
       paginationControls.style.display = "none";
       isCardClicked = false;
-      isNewCardClicked = false;
+      isNewCardClicked = true;
       renderCards(1);
       activeAllCArd.style.setProperty("--zero", "0%");
       activeNewCArd.style.setProperty("--zero", "0%");
@@ -2108,8 +2179,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const kindContainer = [
     {
       id: 1,
-      marka: "Maliyyə",
-      model: [
+      category: "Maliyyə",
+      kind: [
         "Vacib deyil",
         "Kredit mütəxəssisi",
         "Audit",
@@ -2124,8 +2195,8 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 2,
-      marka: "Marketinq",
-      model: [
+      category: "Marketinq",
+      kind: [
         "Vacib deyil",
         "Marketinq-menecment",
         "İctimayətlə əlaqələr",
@@ -2135,8 +2206,8 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 3,
-      marka: "İnformasiya texnologiyaları",
-      model: [
+      category: "İnformasiya texnologiyaları",
+      kind: [
         "Vacib deyil",
         "Sistem idarəetmə",
         "Məlumat bazasının idarəedilməsi",
@@ -2149,8 +2220,8 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 4,
-      marka: "İnzibati",
-      model: [
+      category: "İnzibati",
+      kind: [
         "Vacib deyil",
         "İnzibati dəstək",
         "Menecment",
@@ -2161,8 +2232,8 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 5,
-      marka: "Dizayn",
-      model: [
+      category: "Dizayn",
+      kind: [
         "Vacib deyil",
         "Veb dizayn",
         "Memar",
@@ -2173,18 +2244,18 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 6,
-      marka: "Satış",
-      model: ["Vacib deyil", "Daşınmaz əmlak agenti/makler", "Digər"],
+      category: "Satış",
+      kind: ["Vacib deyil", "Daşınmaz əmlak agenti/makler", "Digər"],
     },
     {
       id: 7,
-      marka: "Hüquqşünas",
-      model: ["Vacib deyil", "Vəkil", "Cinayət hüququ", "Hüquqşünas", "Digər"],
+      category: "Hüquqşünas",
+      kind: ["Vacib deyil", "Vəkil", "Cinayət hüququ", "Hüquqşünas", "Digər"],
     },
     {
       id: 8,
-      marka: "Təhsil və elm",
-      model: [
+      category: "Təhsil və elm",
+      kind: [
         "Vacib deyil",
         "Məktəb tədrisi",
         "Universitet tədrisi",
@@ -2194,8 +2265,8 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 9,
-      marka: "Xidmət",
-      model: [
+      category: "Xidmət",
+      kind: [
         "Vacib deyil",
         "Kuryer",
         "SPA və Gözəllik",
@@ -2209,53 +2280,57 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 10,
-      marka: "Tibb əczaçılıq",
-      model: ["Vacib deyil", "Həkim", "Tibbi personal", "Digər"],
+      category: "Tibb əczaçılıq",
+      kind: ["Vacib deyil", "Həkim", "Tibbi personal", "Digər"],
     },
     {
       id: 11,
-      marka: "Müxtəlif",
-      model: ["Vacib deyil", "Jurnalistika", "Tələbələr üçün"],
+      category: "Müxtəlif",
+      kind: ["Vacib deyil", "Jurnalistika", "Tələbələr üçün"],
     },
   ];
   const salaryElementOption = [
     "Vacib deyil",
-    "100 azn",
-    "200 azn",
-    "300 azn",
-    "400 azn",
-    "500 azn",
-    "600 azn",
-    "700 azn",
-    "800 azn",
-    "900 azn",
-    "1000 azn",
-    "1100 azn",
-    "1200 azn",
-    "1300 azn",
-    "1400 azn",
-    "1500 azn və yuxarı",
+    "100 AZN",
+    "200 AZN",
+    "300 AZN",
+    "400 AZN",
+    "500 AZN",
+    "600 AZN",
+    "700 AZN",
+    "800 AZN",
+    "900 AZN",
+    "1000 AZN",
+    "1100 AZN",
+    "1200 AZN",
+    "1300 AZN",
+    "1400 AZN",
+    "1500 AZN və yuxarı",
   ];
-  // --------marka---------
+  // --------category---------
   const categoryElement = document.querySelector("#marka");
   const kindElement = document.querySelector("#model");
   const salaryElement = document.querySelector("#salary");
   const kindElementOneItem = document.createElement("option");
   const salaryElementOneItem = document.createElement("option");
+
   kindElementOneItem.value = "Vacib deyil";
   kindElementOneItem.textContent = "Vacib deyil";
+  salaryElementOneItem.value = "Vacib deyil";
   salaryElementOneItem.textContent = "Vacib deyil";
+
   kindElement.appendChild(kindElementOneItem);
+  salaryElement.appendChild(salaryElementOneItem);
 
   kindElement.style.pointerEvents = "none";
   salaryElement.style.pointerEvents = "none";
   kindElement.style.backgroundColor = "#e3e3e3";
   salaryElement.style.backgroundColor = "#e3e3e3";
 
-  categoryContainer.forEach((marka) => {
+  categoryContainer.forEach((category) => {
     const categoryElementItem = document.createElement("option");
-    categoryElementItem.value = marka;
-    categoryElementItem.textContent = marka;
+    categoryElementItem.value = category;
+    categoryElementItem.textContent = category;
     categoryElement.appendChild(categoryElementItem);
   });
   salaryElementOption.forEach((salary) => {
@@ -2282,12 +2357,12 @@ document.addEventListener("DOMContentLoaded", function () {
   categoryElement.addEventListener("change", () => {
     const selectedCategory = categoryElement.value;
     kindElement.innerHTML = "";
-    kindContainer.forEach((model) => {
-      if (model.marka === selectedCategory) {
-        model.model.forEach((model) => {
+    kindContainer.forEach((kind) => {
+      if (kind.category === selectedCategory) {
+        kind.kind.forEach((kind) => {
           const kindElementItem = document.createElement("option");
-          kindElementItem.value = model;
-          kindElementItem.textContent = model;
+          kindElementItem.value = kind;
+          kindElementItem.textContent = kind;
           kindElement.appendChild(kindElementItem);
         });
       } else if (selectedCategory === "Bütün Kateqoriyalar") {
@@ -2308,12 +2383,15 @@ document.addEventListener("DOMContentLoaded", function () {
       const cardsElement = document.querySelector(".cards-element");
       const selectedCategory = categoryElement.value;
       const selectedKind = kindElement.value;
+      const selectedSalary = salaryElement.value;
 
       selectedContainer.innerHTML = "";
       cardsInformations.forEach((card) => {
         if (
-          (card.category === selectedCategory && card.kind === selectedKind) ||
-          (card.category === selectedCategory && selectedKind === "Vacib deyil")
+          (card.category === selectedCategory ||
+            selectedCategory === "Bütün Kateqoriyalar") &&
+          (card.kind === selectedKind || selectedKind === "Vacib deyil") &&
+          (card.salary === selectedSalary || selectedSalary === "Vacib deyil")
         ) {
           const selectedLi = document.createElement("li");
           selectedLi.innerHTML = `
@@ -2358,25 +2436,23 @@ document.addEventListener("DOMContentLoaded", function () {
         }
         if (
           categoryElement.value === "Bütün Kateqoriyalar" &&
-          kindElement.value === "Vacib deyil" &&
-          priceMin <= card.prices &&
-          priceMax >= card.prices
+          kindElement.value === "Vacib deyil"
         ) {
           const selectedLi = document.createElement("li");
           selectedLi.innerHTML = `
-          <div class="card-image">
-            <img src="${card.image}" alt="image ${card.id}" />
-            <p class="card-crash" ${
-              card.crash ? "" : 'style="display: none;"'
-            }>${card.crash || ""}</p>
-          </div>
           <div class="card-text">
-            <h3>${card.price}</h3>
-            <div class="card-marka-model">
-              <p>${card.marka}</p>
-              <span>${card.model}</span>
+            <div class="upSide">
+              <h3>${card.jobName}</h3>
+              <p>${card.companyName}</p>
+              <b class="price-text">${card.price}</b>
+              <div class="card-marka-model">
+                <p>*${card.text1}</p>
+                <p>*${card.text2}</p>
+                <p>*${card.text3}</p>
+                <p>*${card.text4}</p>
+                <p>...</p>
+              </div>
             </div>
-            <p>${card.description}</p>
             <span class="card-date">${card.date}</span>
           </div>
         `;
@@ -2386,164 +2462,43 @@ document.addEventListener("DOMContentLoaded", function () {
   );
 });
 // ---------------------login-----------------
-const loginEntryText = document.querySelector(".login-entry-text");
-const loginRegistrationText = document.querySelector(
-  ".login-registration-text"
-);
-const entryElement = document.querySelector(".entry-element");
-const registrationElement = document.querySelector(".registration-element");
-const loginContainer = document.querySelector(".login-container");
-loginContainer.style.display = "none";
-registrationElement.style.display = "none";
-const entrySubmitButton = document.querySelector(".entry-button");
-const addCarsText = document.querySelector(".add-cars-texts");
-
 const usersAddCars = document.querySelector(".users-add-cars");
 const searchCars = document.querySelector(".search-cars");
 const addCars = document.querySelector(".add-cars");
-
+const searchInputs = document.querySelector(".input-elements");
 const cardContainer = document.querySelector(".cards-container");
 const paginationContainer = document.querySelector("#pagination-controls");
 
-const userButton = document.querySelector(".user-in-mobile");
-const login = document.querySelector(".login");
-const loginButton = document.querySelector(".login-in-mobile");
-const userDesktop = document.querySelector(".user-in-desktop");
-userButton.style.display = "none";
-userDesktop.style.display = "none";
-
-function loginFunction() {
-  if (loginContainer.style.display === "none") {
-    document.querySelector("body").style.overflow = "hidden";
-    loginContainer.style.display = "flex";
-    window.scrollTo(0, 0);
-    if (window.innerWidth < 1024) {
-      userDesktop.style.display = "none";
-      if (addCars.addEventListener) {
-        addCars.addEventListener("click", () => {
-          usersAddCars.style.display = "block";
-          addCarsText.style.display = "none";
-          cardContainer.style.display = "none";
-          paginationContainer.style.display = "none";
-          document.querySelector(".filter-container").style.height = "950px";
-          document.querySelector(".filter-elements").style.height = "950px";
-        });
-      }
-      if (searchCars.addEventListener) {
-        searchCars.addEventListener("click", () => {
-          usersAddCars.style.display = "none";
-          addCarsText.style.display = "none";
-          cardContainer.style.display = "block";
-          paginationContainer.style.display = "flex";
-          document.querySelector(".filter-container").style.height = "320px";
-          document.querySelector(".filter-elements").style.height = "320px";
-        });
-      }
-    }
-    loginEntryText.addEventListener("click", () => {
-      loginEntryText.style.setProperty("--searchCars", "100%");
-      loginRegistrationText.style.setProperty("--addCars", "0");
-      entryElement.style.display = "flex";
-      registrationElement.style.display = "none";
-    });
-    loginRegistrationText.addEventListener("click", () => {
-      loginEntryText.style.setProperty("--searchCars", "0");
-      loginRegistrationText.style.setProperty("--addCars", "100%");
-      entryElement.style.display = "none";
-      registrationElement.style.display = "flex";
-    });
-  } else {
-    loginContainer.style.display = "none";
-    document.querySelector("body").style.overflow = "auto";
+addCars.addEventListener("click", () => {
+  usersAddCars.style.display = "block";
+  searchInputs.style.display = "none";
+  cardContainer.style.display = "none";
+  paginationContainer.style.display = "none";
+  searchCars.style.setProperty("--searchCars", "0%");
+  addCars.style.setProperty("--addCars", "100%");
+  if (innerWidth < 1024) {
+    document.querySelector(".filter-container").style.height = "850px";
+    document.querySelector(".filter-elements").style.height = "850px";
   }
-}
-// -------------------entry-button----------------
-entrySubmitButton.addEventListener("click", () => {
-  userButton.style.display = "flex";
-  loginButton.style.display = "none";
-  loginContainer.style.display = "none";
-  login.style.display = "none";
-  if (window.innerWidth < 1024) {
-    userDesktop.style.display = "none";
-  }
-  if (window.innerWidth > 1024) {
-    userDesktop.style.display = "flex";
-  }
-  if (userDesktop.style.display === "flex") {
-    if (addCars.addEventListener) {
-      addCars.addEventListener("click", () => {
-        usersAddCars.style.display = "block";
-        addCarsText.style.display = "none";
-        cardContainer.style.display = "none";
-        paginationContainer.style.display = "none";
-        document.querySelector(".filter-container").style.height = "750px";
-        document.querySelector(".filter-elements").style.height = "750px";
-      });
-    }
-    if (searchCars.addEventListener) {
-      searchCars.addEventListener("click", () => {
-        usersAddCars.style.display = "none";
-        addCarsText.style.display = "none";
-        cardContainer.style.display = "block";
-        paginationContainer.style.display = "flex";
-        document.querySelector(".filter-container").style.height = "200px";
-        document.querySelector(".filter-elements").style.height = "200px";
-      });
-    }
-  }
-  document.querySelector("body").style.overflow = "auto";
-});
-
-const userElement = document.querySelector(".user-element");
-const userElement1 = document.querySelector(".user-element1");
-const userButton1 = document.querySelector(".user1");
-userElement.style.display = "none";
-userElement1.style.display = "none";
-
-userButton.addEventListener("click", () => {
-  if (userElement.style.display === "none") {
-    userElement.style.display = "block";
-  } else if (userElement.style.display === "block") {
-    userElement.style.display = "none";
-  }
-});
-userButton1.addEventListener("click", () => {
-  if (userElement1.style.display === "none") {
-    userElement1.style.display = "block";
-  } else if (userElement1.style.display === "block") {
-    userElement1.style.display = "none";
+  if (innerWidth > 1024) {
+    document.querySelector(".filter-container").style.height = "700px";
+    document.querySelector(".filter-elements").style.height = "700px";
   }
 });
 
-const userCloseDesktop = document.querySelector(".user-exit-desktop");
-const userCloseMobile = document.querySelector(".user-exit-mobile");
-const searchInputs = document.querySelector(".input-elements");
-
-userCloseDesktop.addEventListener("click", () => {
-  userDesktop.style.display = "none";
-  login.style.display = "flex";
-  if (addCars.addEventListener) {
-    addCars.addEventListener("click", () => {
-      usersAddCars.style.display = "none";
-      addCarsText.style.display = "flex";
-      cardContainer.style.display = "block";
-      paginationContainer.style.display = "flex";
-      document.querySelector(".filter-container").style.height = "200px";
-      document.querySelector(".filter-elements").style.height = "200px";
-    });
+searchCars.addEventListener("click", () => {
+  usersAddCars.style.display = "none";
+  searchInputs.style.display = "flex";
+  cardContainer.style.display = "block";
+  paginationContainer.style.display = "flex";
+  searchCars.style.setProperty("--searchCars", "100%");
+  addCars.style.setProperty("--addCars", "0%");
+  if (innerWidth < 1024) {
+    document.querySelector(".filter-container").style.height = "320px";
+    document.querySelector(".filter-elements").style.height = "320px";
   }
-});
-userCloseMobile.addEventListener("click", () => {
-  userButton.style.display = "none";
-  loginButton.style.display = "flex";
-  if (addCars.addEventListener) {
-    addCars.addEventListener("click", () => {
-      usersAddCars.style.display = "none";
-      addCarsText.style.display = "flex";
-      cardContainer.style.display = "block";
-      paginationContainer.style.display = "flex";
-      document.querySelector(".filter-container").style.height = "220px";
-      document.querySelector(".filter-elements").style.height = "220px";
-    });
+  if (innerWidth > 1024) {
+    document.querySelector(".filter-container").style.height = "200px";
+    document.querySelector(".filter-elements").style.height = "200px";
   }
 });

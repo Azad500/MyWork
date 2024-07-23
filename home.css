@@ -13,114 +13,6 @@ header {
   position: relative;
   background-color: #e1f5f2;
 }
-/* -----------login--------------- */
-.login-container {
-  position: absolute;
-  top: 0;
-  z-index: 100;
-  width: 100%;
-  min-height: 100vh;
-  background-color: rgba(34, 34, 34, 0.435);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.login-element {
-  width: 300px;
-  margin: 0 10px;
-  background-color: white;
-  padding: 20px 15px;
-  list-style: none;
-  border-radius: 20px;
-}
-.login-element li:first-child {
-  display: flex;
-  justify-content: end;
-}
-.login-element li:first-child i {
-  font-size: 25px;
-  cursor: pointer;
-}
-.login-text {
-  display: flex;
-  justify-content: center;
-  gap: 30px;
-  margin: 10px 0 30px 0;
-}
-.login-element li:nth-child(2) p {
-  font-size: 16px;
-  font-family: var(--font-family);
-  cursor: pointer;
-  padding: 0 5px;
-  position: relative;
-}
-.login-element li:nth-child(2) p::after {
-  content: "";
-  width: 0;
-  height: 2px;
-  background-color: black;
-  position: absolute;
-  left: 0;
-  bottom: -10px;
-  transition: 0.5s;
-}
-.login-element li:nth-child(2) p:last-child::after {
-  width: var(--addCars);
-}
-.login-element li:nth-child(2) p:first-child::after {
-  width: var(--searchCars);
-}
-.login-element li:nth-child(2) p:hover::after {
-  width: 100%;
-}
-.login-element li:last-child form {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 30px;
-}
-.entry-element,
-.registration-element {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-  list-style: none;
-}
-.entry-element li,
-.registration-element li {
-  width: 100%;
-  position: relative;
-  margin-bottom: 0;
-}
-.entry-element li label,
-.registration-element li label {
-  position: absolute;
-  top: -8px;
-  left: 10px;
-  font-size: 12px;
-  background-color: white;
-  padding: 0 2px;
-}
-.entry-element li input,
-.registration-element li input {
-  width: 100%;
-  padding: 10px;
-  font-size: 14px;
-}
-.login-button input {
-  padding: 10px 25px;
-  background-color: #3e9089;
-  border: none;
-  border-radius: 10px;
-  color: white;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-.login-button input:hover {
-  background-color: #255551;
-}
-
 /* -----------mobile-list--------------- */
 .mobile-list {
   position: absolute;
@@ -193,19 +85,6 @@ header nav {
   align-items: center;
   gap: 20px;
 }
-.login-in-mobile,
-.user-in-mobile {
-  display: flex;
-  background-color: #3e9089;
-  padding: 8px 15px;
-  border-radius: 10px;
-  gap: 10px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-.user-in-mobile {
-  position: relative;
-}
 .user-element {
   position: absolute;
   top: 35px;
@@ -245,24 +124,6 @@ header nav {
 .user-element a:hover {
   background-color: rgb(146, 146, 146);
 }
-.login-in-mobile:hover,
-.user-in-mobile:hover {
-  background-color: #255551;
-}
-.login-in-mobile p,
-.user-in-mobile p {
-  color: white;
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-  z-index: 1;
-}
-.login-in-mobile i,
-.user-in-mobile i {
-  color: white;
-  font-size: 16px;
-  z-index: 1;
-}
-
 .hamburger-element i {
   font-size: 25px;
 }
@@ -273,9 +134,6 @@ header nav {
   display: none;
 }
 .menu-list {
-  display: none;
-}
-.login {
   display: none;
 }
 nav .logo-mobile .user-in-desktop {
@@ -364,38 +222,6 @@ nav .logo-mobile .user-in-desktop {
 }
 .filter-container .filter-elements .two-elements p:hover::after {
   width: 100%;
-}
-.filter-container .filter-elements .add-cars-texts {
-  width: 90%;
-  margin: 10px auto 0 auto;
-  text-align: center;
-  flex-direction: column;
-  align-items: center;
-}
-.filter-container .filter-elements .add-cars-texts p {
-  font-size: 18px;
-  color: white;
-  font-family: var(--font-family);
-}
-.filter-container .filter-elements .add-cars-texts .login-button {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #3e9089;
-  padding: 10px 20px;
-  border-radius: 10px;
-  gap: 10px;
-  cursor: pointer;
-  color: white;
-  font-size: 16px;
-  transition: all 0.3s ease;
-}
-.filter-container .filter-elements .add-cars-texts .login-button:hover {
-  background-color: #255551;
-}
-.filter-container .filter-elements .add-cars-texts .login-button span {
-  font-family: var(--font-family);
-  font-size: 16px;
 }
 .filter-container .filter-elements .input-elements {
   width: 90%;

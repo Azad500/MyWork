@@ -10,51 +10,6 @@
   .navbar-right-side {
     display: none;
   }
-  .login,
-  .user1 {
-    display: flex;
-    background-color: #3e9089;
-    padding: 10px 20px;
-    border-radius: 10px;
-    gap: 10px;
-    cursor: pointer;
-    position: relative;
-    overflow: hidden;
-  }
-  .user-in-desktop {
-    position: relative;
-  }
-  .login::before,
-  .user1::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 0;
-    height: 100%;
-    background-color: #255652;
-    transition: width 0.3s ease;
-    z-index: 1;
-  }
-  .login:hover::before,
-  .user1:hover::before {
-    width: 100%;
-    right: auto;
-    left: 0;
-  }
-  .login p,
-  .user-in-desktop p {
-    color: white;
-    font-family: "Poppins", sans-serif;
-    font-size: 14px;
-    z-index: 1;
-  }
-  .login i,
-  .user-in-desktop i {
-    color: white;
-    font-size: 16px;
-    z-index: 1;
-  }
   .logo-element-in-mobile h2 {
     display: block;
     color: #1d70ad;
@@ -190,21 +145,6 @@
     top: -4px;
     width: 1000px;
     height: 200px;
-  }
-  .filter-container .filter-elements .add-cars-texts {
-    flex-direction: unset;
-    align-items: center;
-  }
-  .filter-container .filter-elements .add-cars-texts p {
-    width: 60%;
-    text-align: start;
-    font-size: 20px;
-  }
-  .filter-container .filter-elements .add-cars-texts .login-button {
-    width: 150px;
-  }
-  .filter-container .filter-elements .add-cars-texts .login-button span {
-    font-size: 18px;
   }
   .filter-container .filter-elements .input-elements {
     flex-direction: unset;
