@@ -167,6 +167,22 @@
     object-fit: cover;
   }
   /* --------------filter------------- */
+  .right-side-element li:first-child input,
+  .right-side-element li:nth-child(2) input {
+    width: 70%;
+  }
+  .bottom-side-element .company-name,
+  .bottom-side-element .connection-person {
+    justify-content: flex-start;
+  }
+  .bottom-side-element .company-name label,
+  .bottom-side-element .connection-person label {
+    width: 15%;
+  }
+  .bottom-side-element .company-name input,
+  .bottom-side-element .connection-person input {
+    width: 50%;
+  }
   .filter-container {
     height: 196px;
   }
@@ -194,7 +210,8 @@
     flex-direction: unset;
   }
   .filter-container .filter-elements .input-elements .marka-element,
-  .model-element {
+  .model-element,
+  .salary-element {
     width: 25%;
   }
   .filter-container .filter-elements .input-elements #marka,
@@ -204,16 +221,14 @@
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
   }
+  .filter-container .filter-elements .input-elements #salary {
+    border-radius: 0;
+    border-top: 1px solid black;
+  }
   .filter-container .filter-elements .input-elements #model {
     border: 1px solid black;
     border-left: unset;
     border-right: unset;
-  }
-  .filter-container .filter-elements .input-elements .price-elements {
-    width: 25%;
-  }
-  .filter-container .filter-elements .input-elements .price-elements input {
-    border: 1px solid black;
   }
   .filter-container .filter-elements .input-elements .submit-button {
     width: 25%;
@@ -225,6 +240,12 @@
   }
   .filter-container .filter-elements .input-elements .submit-button:hover {
     background-color: #255652;
+  }
+  /* ---------------card------------ */
+  .cards-element li,
+  .selected-container li {
+    width: 250px;
+    height: 400px;
   }
   /* -------------------users-add-cars---------------- */
   .users-add-inputs ul {

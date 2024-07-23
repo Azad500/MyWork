@@ -188,13 +188,13 @@
       <section class="filter-container">
         <div class="filter-elements">
           <div class="two-elements">
-            <p class="search-cars">Avtomobil Axtar</p>
-            <p class="add-cars">Avtomobilini Əlavə Et</p>
+            <p class="search-cars">İş Axtar</p>
+            <p class="add-cars">Elan Əlavə Et</p>
           </div>
           <div class="add-cars-texts">
             <p>
-              Avtomobilinizi Əlavə etmək istəyirsinizsə, öncə Qeydiyyatdan keçin
-              və ya Hesabınıza daxil olun!
+              İş elanı Əlavə etmək istəyirsinizsə, öncə Qeydiyyatdan keçin və ya
+              Hesabınıza daxil olun!
             </p>
           </div>
           <!-- ------------users-add-cars------------- -->
@@ -204,44 +204,32 @@
                 <!-- ----------left-side---------- -->
                 <div class="left-side-element">
                   <li>
-                    <label for="marka1">Marka<sup>*</sup></label>
+                    <label for="marka1">Kateqoriya<sup>*</sup></label>
                     <select name="marka1" id="marka1">
                       <option value="">Seçin</option>
                     </select>
                   </li>
                   <li>
-                    <label for="model1">Model<sup>*</sup></label>
+                    <label for="model1">Növ<sup>*</sup></label>
                     <select name="model1" id="model1">
                       <option value="">Seçin</option>
                     </select>
                   </li>
                   <li>
-                    <label for="ban">Ban növü<sup>*</sup></label>
+                    <label for="ban">Vəzifə<sup>*</sup></label>
                     <select name="ban" id="ban">
                       <option value="">Seçin</option>
                     </select>
                   </li>
-                  <li class="millage-li">
-                    <div>
-                      <label for="millage">Yürüş<sup>*</sup></label>
-                    </div>
-                    <div>
-                      <input type="millage" name="millage" id="millage" />
-                      <input type="radio" name="km" id="km" />
-                      <label for="km">km</label>
-                      <input type="radio" name="km" id="mil" />
-                      <label for="mil">mil</label>
-                    </div>
-                  </li>
                   <li>
-                    <label for="color">Rəng</label>
+                    <label for="color">Təhsil</label>
                     <select name="color" id="color">
                       <option value="">Seçin</option>
                     </select>
                   </li>
                   <li class="price-li">
                     <div>
-                      <label for="price1">Qiymət<sup>*</sup></label>
+                      <label for="price1">Maaş<sup>*</sup></label>
                     </div>
                     <div>
                       <input type="price1" name="price1" id="price1" />
@@ -255,43 +243,32 @@
                 <!-- ----------right-side---------- -->
                 <div class="right-side-element">
                   <li>
-                    <label for="fuel">Yanacaq növü<sup>*</sup></label>
-                    <select name="fuel" id="fuel">
-                      <option value="">Seçin</option>
-                    </select>
+                    <label for="email2">Email<sup>*</sup></label>
+                    <input
+                      type="text"
+                      name="email2"
+                      id="email2"
+                      placeholder="Email"
+                    />
                   </li>
                   <li>
-                    <label for="transmitter">Ötürücü<sup>*</sup></label>
-                    <select name="transmitter" id="transmitter">
-                      <option value="">Seçin</option>
-                    </select>
+                    <label for="transmitter">Telefon<sup>*</sup></label>
+                    <input
+                      type="text"
+                      name="transmitter"
+                      id="transmitter"
+                      placeholder="+994"
+                    />
                   </li>
                   <li>
-                    <label for="transmitter">Sürətlər qutusu<sup>*</sup></label>
+                    <label for="transmitter">Yaş<sup>*</sup></label>
                     <select name="gearbox" id="gearbox">
                       <option value="">Seçin</option>
                     </select>
                   </li>
                   <li>
-                    <label for="year">Buraxılış ili<sup>*</sup></label>
+                    <label for="year">İş təcrübəsi<sup>*</sup></label>
                     <select name="year" id="year">
-                      <option value="">Seçin</option>
-                    </select>
-                  </li>
-                  <li>
-                    <label for="engine"
-                      >Mühərrikin həcmi,sm<sup class="kub">3</sup
-                      ><sup>*</sup></label
-                    >
-                    <select name="engine" id="engine">
-                      <option value="">Seçin</option>
-                    </select>
-                  </li>
-                  <li>
-                    <label for="enginePower"
-                      >Mühərrikin gücü,a.g<sup>*</sup></label
-                    >
-                    <select name="enginePower" id="enginePower">
                       <option value="">Seçin</option>
                     </select>
                   </li>
@@ -299,149 +276,23 @@
               </ul>
               <!-- --------------bottom-side------------- -->
               <ol class="bottom-side-element">
-                <li>
-                  <div>
-                    <p>Vəziyyəti</p>
-                  </div>
-                  <ul class="situation-elements">
-                    <li>
-                      <input type="radio" name="haveCrash" id="haveCrash" />
-                      <label for="haveCrash">Vuruğu var</label>
-                    </li>
-                    <li>
-                      <input type="radio" name="makeColor" id="makeColor" />
-                      <label for="makeColor">Rənglənib</label>
-                    </li>
-                    <li>
-                      <input type="radio" name="crash" id="crash" />
-                      <label for="crash">Qəzalı</label>
-                    </li>
-                    <li>
-                      <input type="radio" name="rent" id="rent" />
-                      <label for="rent">İcarə</label>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <div class="point">.</div>
-                  <div class="type-sales">
-                    <div>
-                      <input type="radio" name="credit" id="credit" />
-                      <label for="credit">Kreditlə</label>
-                    </div>
-                    <div>
-                      <input type="radio" name="barter" id="barter" />
-                      <label for="barter">Barter mümkündür</label>
-                    </div>
-                  </div>
-                </li>
-                <li class="vin-element">
-                  <label for="vin">Vin-kod</label>
-                  <input type="text" name="vin" id="vin" />
+                <li class="add-message-element">
+                  <label for="addMessage1">Namizəddə tələblər</label>
+                  <textarea name="addMessage" id="addMessage1"></textarea>
                 </li>
                 <li class="add-message-element">
-                  <label for="addMessage">Əlavə qeyd</label>
-                  <textarea name="addMessage" id="addMessage"></textarea>
+                  <label for="addMessage2"
+                    >İş haqqında və ya özün haqqında məlumat</label
+                  >
+                  <textarea name="addMessage" id="addMessage2"></textarea>
                 </li>
-                <li class="cars-tools-elements">
-                  <p>Avtomobilin təchizatı</p>
-                  <ul class="cars-tools">
-                    <li>
-                      <div>
-                        <input type="radio" name="wheel" id="wheel" />
-                        <label for="wheel">Yüngül lehimli disklər</label>
-                      </div>
-                      <div>
-                        <input
-                          type="radio"
-                          name="centralClose"
-                          id="centralClose"
-                        />
-                        <label for="centralClose">Mərkəzi qapanma</label>
-                      </div>
-                      <div>
-                        <input type="radio" name="interrior" id="interrior" />
-                        <label for="interrior">Dəri salon</label>
-                      </div>
-                      <div>
-                        <input
-                          type="radio"
-                          name="sitWheather"
-                          id="sitWheather"
-                        />
-                        <label for="sitWheather"
-                          >Oturacaqların ventilyasiyası</label
-                        >
-                      </div>
-                    </li>
-                    <li>
-                      <div>
-                        <input type="radio" name="ABS" id="ABS" />
-                        <label for="ABS">ABS</label>
-                      </div>
-                      <div>
-                        <input type="radio" name="radar" id="radar" />
-                        <label for="radar">Park radarı</label>
-                      </div>
-                      <div>
-                        <input type="radio" name="lamps" id="lamps" />
-                        <label for="lamps">Ksenon lampalar</label>
-                      </div>
-                    </li>
-                    <li>
-                      <div>
-                        <input type="radio" name="Lyuk" id="Lyuk" />
-                        <label for="Lyuk">Lyuk</label>
-                      </div>
-                      <div>
-                        <input
-                          type="radio"
-                          name="Kondisioner"
-                          id="Kondisioner"
-                        />
-                        <label for="Kondisioner">Kondisioner</label>
-                      </div>
-                      <div>
-                        <input type="radio" name="camera" id="camera" />
-                        <label for="camera">Arxa görüntü kamerası</label>
-                      </div>
-                    </li>
-                    <li>
-                      <div>
-                        <input type="radio" name="rain" id="rain" />
-                        <label for="rain">Yağış sensoru</label>
-                      </div>
-                      <div>
-                        <input type="radio" name="sitHot" id="sitHot" />
-                        <label for="sitHot">Oturacaqların isidilməsi</label>
-                      </div>
-                      <div>
-                        <input
-                          type="radio"
-                          name="sideCurtain"
-                          id="sideCurtain"
-                        />
-                        <label for="sideCurtain">Yan pərdələr</label>
-                      </div>
-                    </li>
-                  </ul>
+                <li class="company-name">
+                  <label for="company">Şirkətin adı<sup>*</sup></label>
+                  <input type="text" name="company" id="company" />
                 </li>
-                <li class="pictures-container">
-                  <p class="picture-text">Şəkillər</p>
-                  <div class="pictures-border">
-                    <div>
-                      <p>
-                        - Minimum – 3 şəkil (ön, arxa və bütöv ön panelin
-                        görüntüsü mütləqdir).
-                      </p>
-                      <p>- Maksimum – 21 şəkil.</p>
-                      <p>- Optimal ölçü – 1024x768 piksel.</p>
-                    </div>
-                    <div>
-                      <input type="file" name="pictures" id="pictures" />
-                      <button class="custom-button">+</button>
-                    </div>
-                  </div>
+                <li class="connection-person">
+                  <label for="person">Əlaqədar şəxs<sup>*</sup></label>
+                  <input type="text" name="person" id="person" />
                 </li>
                 <li class="add-button-element">
                   <button>Əlavə et</button>
@@ -452,31 +303,21 @@
           <form class="input-elements">
             <!-- ---------marka--------- -->
             <div class="marka-element">
-              <label class="marka" for="marka">Marka</label>
+              <label class="marka" for="marka">Kateqoriya</label>
               <select name="Marka" id="marka"></select>
               <i class="fa-solid fa-chevron-down arrow-in-input"></i>
             </div>
             <!-- ---------model--------- -->
             <div class="model-element">
-              <label class="model" for="model">Model</label>
+              <label class="model" for="model">Növ</label>
               <select name="Model" id="model"></select>
               <i class="fa-solid fa-chevron-down arrow-in-input"></i>
             </div>
             <!-- ---------price--------- -->
-            <div class="price-elements">
-              <label class="price" for="priceMin">Qiymət</label>
-              <input
-                type="number"
-                name="price"
-                id="priceMin"
-                placeholder="min"
-              />
-              <input
-                type="number"
-                name="price"
-                id="priceMax"
-                placeholder="max"
-              />
+            <div class="salary-element">
+              <label for="salary" class="salary">Əmək haqqı</label>
+              <select name="salary" id="salary"></select>
+              <i class="fa-solid fa-chevron-down arrow-in-input"></i>
             </div>
             <!-- ---------submit--------- -->
             <input class="submit-button" type="submit" value="Axtar" />
@@ -508,7 +349,7 @@
             <li>
               <a href="">
                 <i class="fa-solid fa-envelope"></i>
-                <p>info@minik.az</p>
+                <p>info@mywork.az</p>
               </a>
             </li>
             <li class="footer-social">
